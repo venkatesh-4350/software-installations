@@ -1,0 +1,11 @@
+Download xampp file 
+apachefriends.org/download.html
+
+
+
+To install XAMPP on Ubuntu using the terminal, follow these commands
+
+Step 1: Update the system
+sudo apt update
+sudo apt upgrade -y
+
