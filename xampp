@@ -9,3 +9,18 @@ Step 1: Update the system
 sudo apt update
 sudo apt upgrade -y
 
+Step 2: Download XAMPP with terminal commands
+https://downloads.apachefriends.org/xampp-files/8.2.12/xampp-linux-x64-8.2.12-0-installer.run
+
+ 
+Step 3: Make the installer executable
+chmod +x xampp-linux-x64-8.2.12-0-installer.run
+
+Step 4: Run the installer
+sudo ./xampp-linux-x64-8.2.12-0-installer.run
+
+Final step : Start XAMPP
+sudo /opt/lampp/lampp start
+
+Stop XAMPP:  
+sudo /opt/lampp/lampp stop
